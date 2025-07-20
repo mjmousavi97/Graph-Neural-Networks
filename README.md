@@ -53,7 +53,7 @@ The content is expanding gradually and will include advanced topics such as:
 My main reference for theoretical understanding and practice is placed in the folder:
 
 ```
- [https://github.com/mjmousavi97/Graph-Neural-Networks/blob/main/book/Maxime%20Labonne%20-%20Hands-On%20Graph%20Neural%20Networks%20Using%20Python_%20Practical%20techniques%20and%20architectures-Packt%20(2023).pdf]
+ https://github.com/mjmousavi97/Graph-Neural-Networks/blob/main/book/Maxime%20Labonne%20-%20Hands-On%20Graph%20Neural%20Networks%20Using%20Python_%20Practical%20techniques%20and%20architectures-Packt%20(2023).pdf
 ```
 
 
