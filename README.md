@@ -1,9 +1,10 @@
 
+# 🧠 Graph Neural Networks Study Repository
+
 <p align="center">
   <img src="images/image1.png" alt="Graph Learning" width="600" style="border-radius: 20px;"/>
 </p>
 
-# 🧠 Graph Neural Networks Study Repository
 
 Welcome to this curated repository dedicated to learning and implementing **Graph Representation Learning** and **Graph Neural Networks (GNNs)** using Python, NetworkX, NumPy, and related tools.
 
