@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/500b68bc-8eee-4c80-beae-e832bebfb92c.png" alt="Graph Learning" width="700"/>
+  <img src="images/image1.png" alt="Graph Learning" width="700" style="border-radius: 20px;"/>
 </p>
 
 # 🧠 Graph Neural Networks Study Repository
@@ -57,10 +57,6 @@ My main reference for theoretical understanding and practice is placed in the fo
 └── [Maxime Labonne - Hands-On Graph Neural Networks Using Python_ Practical techniques and architectures-Packt (2023).pdf]
 ```
 
-Original source:  
-🔗 [book/Maxime Labonne - Hands-On Graph Neural Networks Using Python_ Practical techniques and architectures-Packt (2023).pdf]
-
----
 
 ## 🔗 Google Scholar Profiles
 
