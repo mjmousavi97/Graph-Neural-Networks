@@ -1,12 +1,11 @@
 
 # 🧠 Graph Neural Networks Study Repository
+Welcome to this curated repository dedicated to learning and implementing **Graph Representation Learning** and **Graph Neural Networks (GNNs)** using Python, NetworkX, NumPy, and related tools.
 
 <p align="center">
   <img src="images/image1.png" alt="Graph Learning" width="600" style="border-radius: 20px;"/>
 </p>
 
-
-Welcome to this curated repository dedicated to learning and implementing **Graph Representation Learning** and **Graph Neural Networks (GNNs)** using Python, NetworkX, NumPy, and related tools.
 
 ---
 
@@ -55,7 +54,7 @@ My main reference for theoretical understanding and practice is placed in the fo
 
 ```
 📁 book/
-└── [Maxime Labonne - Hands-On Graph Neural Networks Using Python_ Practical techniques and architectures-Packt (2023).pdf]
+└── [https://github.com/mjmousavi97/Graph-Neural-Networks/blob/main/book/Maxime%20Labonne%20-%20Hands-On%20Graph%20Neural%20Networks%20Using%20Python_%20Practical%20techniques%20and%20architectures-Packt%20(2023).pdf]
 ```
 
 
