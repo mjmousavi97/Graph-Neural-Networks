@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/image1.png" alt="Graph Learning" width="700" style="border-radius: 20px;"/>
+  <img src="images/image1.png" alt="Graph Learning" width="600" style="border-radius: 20px;"/>
 </p>
 
 # 🧠 Graph Neural Networks Study Repository
